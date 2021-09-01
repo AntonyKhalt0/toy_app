@@ -1,5 +1,6 @@
 {
   "name": "toy_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "0.0.0"
 }
