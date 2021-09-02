@@ -219,7 +219,6 @@ DEPENDENCIES
   puma (~> 3.12.4)
   rails (~> 5.2.3)
   rails_12factor (= 0.0.3)
-  rake (>= 13.0.1)
   redis (~> 4.0)
   sass-rails (~> 5.0.6)
   sdoc (= 1.0.0)
