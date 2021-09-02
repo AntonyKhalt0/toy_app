@@ -26,9 +26,9 @@ gem 'jbuilder', '~> 2.11.2'
 gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
-
+gem 'rake',         '>= 13.0.1'
 gem 'sdoc',         '1.0.0', group: :doc
-
+gem 'thor',         '>= 1.1.0'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
