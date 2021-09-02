@@ -1,0 +1,15 @@
+current directory: /home/antony/workspace/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210902-5840-1hqml2e.rb extconf.rb
+creating Makefile
+
+current directory: /home/antony/workspace/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/antony/workspace/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/antony/workspace/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210902-5840-1skv95c/bootsnap
